@@ -1,0 +1,33 @@
+h1{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 80px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.flex-item{
+    display: flex;
+    justify-content: center;
+}
+.div1{
+    width: 50%;
+}
+.div2{
+    width: 470px;
+    height: 450px;
+    text-align: center;
+    margin-top: 40px;
+}
+.input-input{
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 3px;
+    width: 250px;
+    height: 32px;
+}
+button{
+    border: none;
+    color: white;
+    width: 200px;
+}

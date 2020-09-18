@@ -1,0 +1,9 @@
+body{
+    background: url(../../Image/Rectangle11.png), #C4C4C4;;
+    background-position: center top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.home {
+    display: flex;
+}

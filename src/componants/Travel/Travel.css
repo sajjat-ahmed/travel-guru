@@ -1,0 +1,23 @@
+.travel__image{
+    display: flex;
+    width: 250px;
+    margin-left: 65px;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px rgb(121, 120, 120);
+}
+h4{
+    color: white;
+    margin-left: 75px;
+    position: absolute;
+    top: 420px;
+    cursor: pointer;
+}
+p{
+    position: relative;
+    margin-left: 80px;
+    bottom: 40PX;
+    color: white;
+    cursor: pointer;
+}

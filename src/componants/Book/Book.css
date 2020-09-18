@@ -1,0 +1,6 @@
+.book{
+    display: flex;
+}
+div img {
+    width: 200px;
+}
